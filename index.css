@@ -11,7 +11,6 @@ body {
 .label{
     width: 149px;
     height: 0px;
-    left: 85px;
     top: 68px;
 
     font-family: 'Verdana';
@@ -48,11 +47,11 @@ color: #F94F6D;
 }
 
 .left{
-    
+    left: 85px;
 }
 
 .right{
-    
+    left: 185px;
 }
 
 .home{
